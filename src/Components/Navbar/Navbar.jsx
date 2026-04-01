@@ -24,7 +24,7 @@ const Navbar = ({cartCount}) => {
         </ul>
       </div>
       <div className="navbar-end flex gap-3">
-        <a href=""> <img src="/src/assets/products/shopping-cart.png" ></img> </a>
+        <a href=""> <img src="/shopping-cart.png" ></img> </a>
         <p>Login</p>
         <a className="bg-violet-500 text-white font-bold  px-4 py-2 rounded-full">Get Started</a>
       </div>

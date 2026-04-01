@@ -4,7 +4,7 @@ const Banner = () => {
         <div className="max-w-7xl mx-auto px-6 w-full grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
             <div className="inline-flex items-center gap-2 bg-violet-50 border border-violet-100 text-violet-700 text-sm font-semibold px-4 py-2 rounded-full">
-                <span> <img src="/src/assets/Group 5.png"></img> </span>New: AI-Powered Tools Available
+                <span> <img src="/Group 5.png"></img> </span>New: AI-Powered Tools Available
             </div>
             <h1 className="text-4xl lg:text-6xl font-bold leading-tight text-gray-500">
                 Supercharge Your <br></br> <span className=" text-violet-600 ">Digital Workflow</span>
@@ -18,7 +18,7 @@ const Banner = () => {
                     Explore Products
                 </button>
                 <button className="btn btn-outline border-gray-300 rounded-full px-8 text-base font-semibold transition-all gap-2">
-                    <span> <img src="/src/assets/play.png"></img> </span> Watch Demo
+                    <span> <img src="/play.png"></img> </span> Watch Demo
                 </button>
             </div>
         </div>
@@ -27,7 +27,7 @@ const Banner = () => {
         <div>
             <div>
                 <div>
-                    <img src="/src/assets/banner.png"></img>
+                    <img src="/banner.png"></img>
                 </div>
             </div>
         </div>

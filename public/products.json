@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "ResumeAI Pro",
+    "description": "Build job-winning resumes with AI-powered suggestions and ATS optimization tools.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "📄"
+  },
+  {
+    "id": 2,
+    "name": "ContentCraft",
+    "description": "Generate high-quality blog posts, social media content, and marketing copy in seconds.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Blog & social content", "SEO suggestions", "Multi-language support"],
+    "icon": "✍️"
+  },
+  {
+    "id": 3,
+    "name": "DataViz Studio",
+    "description": "Transform raw data into beautiful, interactive charts and dashboards effortlessly.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["50+ chart types", "Real-time data sync", "Shareable dashboards"],
+    "icon": "📊"
+  },
+  {
+    "id": 4,
+    "name": "SchedulePro",
+    "description": "Smart scheduling tool that syncs with your calendar and auto-books meetings for you.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Calendar sync", "Auto-booking", "Time zone support"],
+    "icon": "📅"
+  },
+  {
+    "id": 5,
+    "name": "InvoiceFlow",
+    "description": "Create and send professional invoices, track payments, and manage your finances.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Unlimited invoices", "Payment tracking", "Tax calculation"],
+    "icon": "💰"
+  },
+  {
+    "id": 6,
+    "name": "TaskMaster",
+    "description": "AI-powered project management tool to keep your team on track and productive.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Kanban boards", "Team collaboration", "Progress analytics"],
+    "icon": "✅"
+  },
+  {
+    "id": 7,
+    "name": "EmailGenius",
+    "description": "Automate your email campaigns with smart targeting and personalization features.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Email automation", "A/B testing", "Open rate analytics"],
+    "icon": "📧"
+  },
+  {
+    "id": 8,
+    "name": "LogoCraft",
+    "description": "Design stunning logos and brand assets using AI in just a few clicks.",
+    "price": 79,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["AI logo generation", "Brand kit export", "Vector formats"],
+    "icon": "🎨"
+  }
+]

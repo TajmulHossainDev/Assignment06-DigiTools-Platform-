@@ -1,4 +1,4 @@
-const Navbar = () => {
+const Navbar = ({cartCount}) => {
   return (
     <div className="max-w-7xl mx-auto navbar bg-base-100 border-b-2 border-slate-100">
       <div className="navbar-start">

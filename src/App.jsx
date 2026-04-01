@@ -9,6 +9,7 @@ import { useState } from "react";
 import Steps from "./Components/Steps/Steps";
 import Pricing from "./Components/Pricing/Pricing";
 import Transform from "./Components/Transform/Transform";
+import Footer from "./Components/Footer/Footer";
 
 const getProducts = async () => {
   const res = await fetch("/products.json");
@@ -45,6 +46,7 @@ function App() {
     <Steps></Steps>
     <Pricing></Pricing>
     <Transform></Transform>
+    <Footer></Footer>
     </>
   );
 }
